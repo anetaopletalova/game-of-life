@@ -1,0 +1,8 @@
+node_modules
+build
+dist
+**/.next/**
+**/_next/**
+**/dist/**
+**/__tmp__/**
+**/*.d.ts
